@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-int main() {
+int main() { 
     long long binary;
     int decimal = 0, remainder, i = 0;
 
